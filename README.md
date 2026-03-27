@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 I am a **Data Science Engineer** with strong foundations in  
-**Machine Learning, Deep Learning, Web Development, and Backend Engineering**.  
+**Python, Data analytics, Web Development, Mysql, Html, Css and Javascript.**
 I love building intelligent systems, automating workflows, and creating full-stack solutions.
 
 ---
