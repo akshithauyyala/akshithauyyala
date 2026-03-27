@@ -3,7 +3,7 @@
   <img src="https://github.com/your-username/your-username/blob/main/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Your Name</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Akshitha</span></h1>
 
 <p align="center">
   <b>Data Science Engineer | AI Enthusiast | Full-Stack Developer</b>
